@@ -1,3 +1,8 @@
+data/
+processed_data/
+spot_futures_venv/
+spot_vs_futures.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
